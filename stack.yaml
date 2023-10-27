@@ -1,0 +1,17 @@
+resolver: lts-10.3
+
+packages:
+- .
+extra-deps:
+- string-random-0.1.0.0
+- hedis-0.15.2
+- digestive-functors-0.8.3.0
+- digestive-functors-aeson-1.1.22
+- digestive-functors-blaze-0.6.2.0
+- digestive-functors-scotty-0.2.0.2
+- hpc-threshold-0.1.0.0
+
+flags: {}
+
+extra-package-dbs: []
+
